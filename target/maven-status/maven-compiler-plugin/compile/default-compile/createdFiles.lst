@@ -1,0 +1,8 @@
+br\com\w6\integracao\soap\mapeamentoxml\GetCustomerDetailResponse.class
+br\com\w6\integracao\soap\package-info.class
+br\com\w6\integracao\IntegracaoApplication.class
+br\com\w6\integracao\soap\mapeamentoxml\ObjectFactory.class
+br\com\w6\integracao\soap\mapeamentoxml\GetCustomerDetailRequest.class
+br\com\w6\integracao\soap\mapeamentoxml\CustomerDetail.class
+br\com\w6\integracao\soap\mapeamentoxml\package-info.class
+br\com\w6\integracao\soap\indicadorpessoal\endpoint\IndicadorPessoalEndpoint.class
